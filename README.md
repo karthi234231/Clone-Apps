@@ -12,12 +12,16 @@ This repository includes the following cloned applications:
 
 2. **Google Clone**
    - A replica of the Google search engine interface, complete with a functional search bar and results display.
+![Screenshot 2024-08-27 232121](https://github.com/user-attachments/assets/485f2dbf-711c-4964-be89-4ae709bb0969)
 
 3. **Netflix Clone**
    - A Netflix-inspired application that showcases a dynamic homepage with movie categories, a carousel, and video previews.
+![Screenshot 2024-08-27 232728](https://github.com/user-attachments/assets/4d33aaad-5229-46ab-bc6b-9764ed965b37)
 
 4. **Twitter Clone**
    - A clone of the Twitter social media platform, featuring a tweet feed, user profiles, and the ability to post tweets.
+   - ![Screenshot 2024-08-25 222024](https://github.com/user-attachments/assets/ce0f4513-9683-4b40-ae6f-7dbb266ae0a2)
+
 
 ## Features
 
