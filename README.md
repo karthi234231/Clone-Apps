@@ -21,18 +21,3 @@ This repository includes the following cloned applications:
 4. **Twitter Clone**
    - A clone of the Twitter social media platform, featuring a tweet feed, user profiles, and the ability to post tweets.
    - <img src="https://github.com/user-attachments/assets/ce0f4513-9683-4b40-ae6f-7dbb266ae0a2" alt="Twitter Clone" width="600"/>
-
-## Features
-
-- **Responsive Design:** Each clone is designed to be responsive and works across different devices and screen sizes.
-- **React Functional Components:** The clones are built using React functional components and hooks.
-- **CSS Styling:** Styling is implemented using CSS modules and styled-components to maintain consistency and modularity.
-- **State Management:** State is managed using React's built-in state management techniques.
-
-## Installation
-
-To run these clone applications locally, follow these steps:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/react-clone-apps.git
